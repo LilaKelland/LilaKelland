@@ -12,7 +12,7 @@ I've got 3 personal projects on the go:
 - The UnBurnt repository contains the server/ API code in python. The docker scripts (to run python/ mongoDB on raspberry pi server), mongoDB schema setup and project UML diagram are also found here. 
 - The other 2 repositories (UnBurntArduino and UnBurntXcode are more self explainitory containing the sensor schematic and Aruduino code and iOS code respectively)  
 ### Papaoutai
-- An iOS app that tracks the time a partner spends (aka hides) in bathroom.  
+- An iOS app that tracks the time a partner spends (aka hides) in bathroom. (Started as a pandemic inside joke.) 
 - Uses BLE from an Arduino Nano to connect to iphone in background mode, and track time within a preset proximity. 
 - On BLE disconnection, the iOS app sends time data to mongoDB via Node.js/ Express framework.  
 - Currently working on figuring out how to get mongoCharts onto the iphone to display usage stats.  
