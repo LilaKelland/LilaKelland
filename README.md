@@ -13,8 +13,8 @@ I've got 3 personal projects on the go:
 - The other 2 repositories (UnBurntArduino and UnBurntXcode are more self explainitory containing the sensor schematic and Aruduino code and iOS code respectively)  
 ### Papaoutai
 - An iOS app that tracks the time a partner spends (aka hides) in bathroom.  
-- Uses BLE from an Arduino Nano to connect to iphone in backgroung mode, and track time within a preset proximity. 
-- On disconnection, the iOS app sends data to mongoDB via Node.js using Express framework.  
+- Uses BLE from an Arduino Nano to connect to iphone in background mode, and track time within a preset proximity. 
+- On BLE disconnection, the iOS app sends time data to mongoDB via Node.js/ Express framework.  
 - Currently working on figuring out how to get mongoCharts onto the iphone to display usage stats.  
 - Next steps after that is to use alerts to update phone with usage stats. 
 
