@@ -11,7 +11,6 @@ I've got 3 personal projects on the go:
 - This project is spread among 3 repositories:
 - The UnBurnt repository contains the server/ API code in python. The docker scripts (to run python/ mongoDB on raspberry pi server), mongoDB schema setup and project UML diagram are also found here. 
 - The other 2 repositories (UnBurntArduino and UnBurntXcode are more self explainitory containing the sensor schematic and Aruduino code and iOS code respectively)  
-
 ### Papaoutai
 - An iOS app that tracks the time a partner spends (aka hides) in bathroom.  
 - Uses BLE from an Arduino Nano to connect to iphone in backgroung mode, and track time within a preset proximity. 
@@ -20,5 +19,6 @@ I've got 3 personal projects on the go:
 - Next steps after that is to use alerts to update phone with usage stats. 
 
 ### Website [codeinterupted.com](http://www.codeinterupted.com)
-- Thought I should learn some frontend code and Angular/ Typescript looked intriguing
+- Thought I should learn some frontend code and Angular/ Typescript looked intriguing.
+- It's currently masquerading as a website from the '90s.
  
