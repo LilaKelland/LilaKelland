@@ -2,7 +2,7 @@
 
 I’m currently interested in learning all the things. 
 
-I've got 3 personal projects on the go since the pandemic start:
+I've got 3 personal projects on the go:
 ### UnBurnt
 - To prevent burnt BBQ food, I've attached sensors (thermocouple and flame) to an arduino with wifi to send data via python API to mongoDB/ iOS app.  
 - The iOS app will recieve push notifications when its time to check the food, if its too hot and when it's too cold.
