@@ -9,8 +9,8 @@ I've got 3 personal projects on the go:
 - Uses state machine and background modes, so you never have to turn on or off system, it'll automatically turn on when reached min temp and off when cooled back down.
 - Currently setting up supervised machine learning to determine burning point (from temp slope and temp), but am going to need much more data (and access to a BBQ and resoldered sensors (will revisit when back in Ottawa)).
 - This project is spread among 3 repositories:
-- The UnBurnt repository contains the server/ API code in python. The docker scripts (to run python/ mongoDB on raspberry pi server), mongoDB schema setup and project UML diagram are also found here. 
-- The other 2 repositories (UnBurntArduino and UnBurntXcode are more self explainitory containing the sensor schematic and Aruduino code and iOS code respectively)  
+- The **UnBurnt** repository contains the server/ API code in python. The docker scripts (to run python/ mongoDB on raspberry pi server), mongoDB schema setup and project UML diagram are also found here. 
+- The other 2 repositories (**UnBurntArduino** and **UnBurntXcode** are more self explainitory containing the sensor schematic and Aruduino code and iOS code respectively)  
 ### Papaoutai
 - An iOS app that tracks the time a partner spends (aka hides) in bathroom. (Started as a pandemic inside joke.) 
 - Uses BLE from an Arduino Nano to connect to iphone in background mode, and track time within a preset proximity. 
