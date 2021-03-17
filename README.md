@@ -14,7 +14,7 @@ I've got 3 personal projects on the go:
 ### Papaoutai
 - An iOS app that tracks the time a partner spends (aka hides) in bathroom. (Started as a pandemic inside joke.) 
 - Uses BLE from an Arduino Nano to connect to iphone in background mode, and track time within a preset proximity. 
-- On BLE disconnection, the iOS app sends time data to mongoDB via Node.js/ Express framework.  
+- On BLE disconnection, the iOS app sends time data to mongoDB via Node.js/ Express.  
 - Currently working on figuring out how to get mongoCharts onto the iphone to display usage stats.  
 - Next steps after that is to use alerts to update phone with usage stats. 
 
