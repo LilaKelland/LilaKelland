@@ -2,7 +2,7 @@
 
 I’m currently interested in learning all the things. 
 
-I've got 3 personal projects on the go:
+I've got 2 personal projects on the go:
 ### UnBurnt
 - To prevent burnt BBQ food, sensors (thermocouple and flame) are attached to an arduino with wifi to send data via python API to mongoDB/ iOS app.  
 - The iOS app recieves push notifications when its time to check the food, if its too hot and when it's too cold.
@@ -14,12 +14,12 @@ I've got 3 personal projects on the go:
 ### Papaoutai
 - An iOS app that tracks the time a partner spends (aka hides) in bathroom. 
 - Uses BLE from an Arduino Nano to connect to iphone in background mode, and track time within a preset proximity. 
-- On BLE disconnection, the iOS app sends time data to mongoDB via Node.js/ Express.  
+- On BLE disconnection, the iOS app sends time data to mongoDB via ~~Node.js/ Express~~ python.  
 - Currently working on figuring out how to get mongoCharts onto the iphone to display usage stats.  
 - Next steps after that is to use alerts to update phone with usage stats. 
 
-### Website [codeinterupted.com](http://www.codeinterupted.com)
+~~### Website [codeinterupted.com](http://www.codeinterupted.com)
 - Thought I should learn some frontend code and Angular/ Typescript looked intriguing.
-- It's currently masquerading as a website from the '90s.
-- Not yet up and running.
+~~- It's currently masquerading as a website from the '90s.
+- Not yet up and running.~~
  
