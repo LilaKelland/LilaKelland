@@ -18,8 +18,8 @@ I've got 2 personal projects on the go:
 - Currently working on figuring out how to get mongoCharts onto the iphone to display usage stats.  
 - Next steps after that is to use alerts to update phone with usage stats. 
 
-~~### Website [codeinterupted.com](http://www.codeinterupted.com)
+### Website [codeinterupted.com](http://www.codeinterupted.com)
 - Thought I should learn some frontend code and Angular/ Typescript looked intriguing.
-~~- It's currently masquerading as a website from the '90s.
-- Not yet up and running.~~
+- It's currently masquerading as a contentless website from the '90s.
+- Not yet up and running.
  
