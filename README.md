@@ -1,6 +1,6 @@
 ### Hi there and welcome to my github page!
 
-I’m currently interested in learning all the things. 
+I’m currently learning the fundementals of software development through projects to improve my daily life. 
 
 I've got 2 personal projects on the go:
 ### UnBurnt
