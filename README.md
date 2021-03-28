@@ -1,6 +1,6 @@
 ### Hi there and welcome to my github page!
 
-I’m currently learning the fundementals of software development through projects to improve my daily life. 
+I’m currently learning the fundamentals of software development through projects to smooth small anoyances in daily life. 
 
 I've got 2 personal projects on the go:
 ### UnBurnt
