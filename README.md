@@ -28,6 +28,6 @@ I've got 2 personal projects on the go:
  
  
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Tanu-N-Prabhu&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=LilaKelland&show_icons=true)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanu-N-Prabhu&theme=blue-green)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LilaKelland&theme=blue-green)
