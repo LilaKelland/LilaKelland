@@ -26,3 +26,8 @@ I've got 2 personal projects on the go:
 - It's currently masquerading as a contentless website from the '90s.
 - Not yet up and running.
  
+ 
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Tanu-N-Prabhu&show_icons=true)
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanu-N-Prabhu&theme=blue-green)
