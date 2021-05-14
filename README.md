@@ -15,7 +15,7 @@ I've got 2 personal projects on the go:
 - A testless spaghetti mess of code - next steps refactor/restructure, now that I've learned some things. 
 
 ### Papaoutai
-(Repositories: (**Papaoutai-REST-API**, **Papaoutai-iOS-App** and **Papaoutai-Arduino**)
+(Repositories: **Papaoutai-REST-API**, **Papaoutai-iOS-App** and **Papaoutai-Arduino**)
 - An iOS app that tracks the time that adults in the house spend (aka hides) in bathroom. 
 - Uses BLE from an Arduino Nano to connect to iphone in background mode, and tracks time spent within a preset proximity. 
 - On BLE disconnection, the iOS app sends time data to Posgresql via python api.  
