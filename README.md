@@ -14,12 +14,12 @@ I've got 2 personal projects on the go:
 - A testless spaghetti mess of code - next steps refactor/restructure, now that I've learned some things. 
 
 ### Papaoutai
-- An iOS app that tracks the time that the adults in the house spends (aka hides) in bathroom. 
+- An iOS app that tracks the time that the adults in the house spend (aka hides) in bathroom. 
 - Uses BLE from an Arduino Nano to connect to iphone in background mode, and track time within a preset proximity. 
 - On BLE disconnection, the iOS app sends time data to Posgresql via python api.  
 - Day and Week usage can be displayed along with week averages on a iphone app. Currently working on combining the proximity tracking and usage display apps into one.  
 - Next steps after that is to use alerts to update phone with usage stats. 
-- Found in 4 repositories: (**Papaoutai-REST-API**, **Papaoutai-iOS-Usage-Charts**, **Papaoutai-iOS-Proximity** and **Papaoutai-Arduino**
+- Found in 4 repositories: (**Papaoutai-REST-API**, **Papaoutai-iOS-Usage-Charts**, **Papaoutai-iOS-Proximity** and **Papaoutai-Arduino**)
 
 ### Website [codeinterupted.com](http://www.codeinterupted.com)
 - Thought I should learn some frontend code and Angular/ Typescript looked intriguing.
