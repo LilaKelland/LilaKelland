@@ -19,7 +19,7 @@ I've got 2 personal projects on the go:
 - An iOS app that tracks the time that adults in the house spend (aka hides) in bathroom. 
 - Uses BLE from an Arduino Nano to connect to iphone in background mode, and tracks time spent within a preset proximity. 
 - On BLE disconnection, the iOS app sends time data to Posgresql via python api.  
-- Day and Week usage is displayed along with week averages on a iphone app (similar to the "screentime" app). Currently working on combining the proximity tracking and usage display apps into one.  
+- Day and Week usage is displayed along with week averages on a iPhone app (similar to the "screentime" app). Currently working on combining the proximity tracking and usage display apps into one.  
 - Next steps after this is to use alerts to update user with weekly usage stats and including time percentage increase or decrease. 
 
 ### Website [codeinterupted.com](http://www.codeinterupted.com)
