@@ -21,11 +21,6 @@ I've got 2 personal projects on the go:
 - On BLE disconnection, the iOS app sends time data to Posgresql via python api.  
 - Day and Week usage is displayed along with week averages on a iPhone app (similar to the "screentime" app). Currently working on combining the proximity tracking and usage display apps into one.  
 - Next steps after this is to use alerts to update user with weekly usage stats and including time percentage increase or decrease. 
-
-### Website [codeinterupted.com](http://www.codeinterupted.com)
-- Figured I should learn some non-iOS frontend code and Angular/ Typescript looked intriguing.
-- It's currently masquerading as a contentless website from the '90s.
-- Not yet up and running.
  
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=LilaKelland&show_icons=true)
