@@ -1,6 +1,6 @@
 ### Hi there and welcome to my github page!
 
-I’m new data scientist - recently completing the Data Science Bootcamp at Lighthouse Labs.
+I’m new data scientist - having recently completing the Data Science Bootcamp at Lighthouse Labs.
 
 I love working with data and playing with code to solve problems no matter the size.  I learned the fundamentals of software development through projects that smooth small anoyances in daily life. 
 
