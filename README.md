@@ -13,7 +13,7 @@ I've got 3 primary projects on the go:
 - Deployed as a Flask app on AWS.     
 
 ### UnBurnt
-(Repositories: [UnBurnt-iOS-App](https://github.com/LilaKelland/UnBurnt-iOS-App), [UnBurntArduino](https://github.com/LilaKelland/UnBurnt-Arduino) [UnBurnt-Sensor-Client](https://github.com/LilaKelland/UnBurnt-Sensor-Client) and [UnBurnt-REST-API](https://github.com/LilaKelland/UnBurnt-REST-API))
+(Repositories: [UnBurnt-iOS-App](https://github.com/LilaKelland/UnBurnt-iOS-App), [UnBurntArduino](https://github.com/LilaKelland/UnBurnt-Arduino), [UnBurnt-Sensor-Client](https://github.com/LilaKelland/UnBurnt-Sensor-Client) and [UnBurnt-REST-API](https://github.com/LilaKelland/UnBurnt-REST-API))
 - To prevent burnt BBQ food, sensors (thermocouple and flame) are attached to an arduino with wifi to send data via python API to mongoDB/ iOS app.  
 - The iOS app receives push notifications when it's time to check the food, if it's too hot, on fire and when it's too cold.
 - Uses state machine and background modes, so you never have to turn on or off system, it'll automatically turn on when reached min temp and off when cooled back down.
