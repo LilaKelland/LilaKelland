@@ -1,10 +1,8 @@
 ### Hi there and welcome to my github page!
 
-I’m new data scientist - having recently completing the Data Science Bootcamp at Lighthouse Labs.
+I love working with data and playing with code to solve problems.  I learned the fundamentals of software development through projects that smooth small anoyances in daily life, then jumped into data with the Data Science Bootcamp at Lighthouse Labs.
 
-I love working with data and playing with code to solve problems no matter the size.  I learned the fundamentals of software development through projects that smooth small anoyances in daily life. 
-
-I've got 3 primary projects on the go:
+The 3 primary projects on the go are:
 
 ### Ravelry Recommender Engine 
 (Repository: [Ravelry-Recommender-Engine](https://github.com/LilaKelland/Ravelry-Recommender-Engine)
